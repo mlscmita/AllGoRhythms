@@ -6,6 +6,7 @@ The Movie Recommendation System suggests movies to users based on the similarity
 We utilize the TMDB Movie Metadata dataset from Kaggle for this project.
 
 Dataset Link: TMDB Movie Metadata
+
 Description: The dataset contains movie details such as title, genres, cast, crew, keywords, and popularity.
 Size: ~10 MB
 
